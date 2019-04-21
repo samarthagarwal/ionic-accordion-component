@@ -7,7 +7,7 @@ To use this component, clone it in its components folder and then generate a fil
 
 ![Image](https://image.prntscr.com/image/6tl5OGfrRWSocjTqftW2oQ.png)
 
-Ahora en su archivo `components.module.ts` you must import and export your component. Your file should look like this
+Now in your file `components.module.ts` you must import and export your component. Your file should look like this
 
 ![Image](https://image.prntscr.com/image/2jIrcUIlTkamvp8KoC1uEQ.png)
 
